@@ -1,0 +1,1 @@
+The perceptron feeds the signal produced by a multiple linear regression into an activation function that may be nonlinear.For instance, the patterns may comprise a list of quantities for technical indicators about a security; potential outputs could be “buy,” “hold” or “sell.”  Hidden layers fine-tune the input weightings until the neural network’s margin of error is minimal.
